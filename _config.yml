@@ -7,9 +7,10 @@ description: "I'm Aynsley, welcome to my portfolio site!"
 baseurl: 
 
 # Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+color: '#FFB174'
+  primary-dark: '#565A5C'
+  links: '#FFD2AF'
+  
 
 # Footer settings
 footer: Aynsley Longridge
